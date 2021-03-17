@@ -1,0 +1,11 @@
+.card_login {
+    margin: auto;
+    margin: 148px auto;
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #fdfdfe;
+    margin: 0;
+}
